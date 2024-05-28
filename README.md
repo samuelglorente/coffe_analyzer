@@ -91,7 +91,7 @@ Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 
 Samuel García Lorente
 
-[LinkedIn](linkedin-url) – [email](samuelglorente@gmail.com) - [GitHub](linkedin-url)
+[LinkedIn](linkedin-url) – [email](sglorente@proton.me) - [GitHub](linkedin-url)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,5 +115,5 @@ Samuel García Lorente
 [license-shield]: https://img.shields.io/github/license/samuelglorente/coffe_analyzer.svg?style=for-the-badge
 [license-url]: https://github.com/samuelglorente/coffe_analyzer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/samuel-garcia-lorente/
+[linkedin-url]: https://www.linkedin.com/in/sglorente/
 [github-url]: https://www.github.com/samuelglorente/
