@@ -91,7 +91,7 @@ Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 
 Samuel García Lorente
 
-[LinkedIn]([linkedin-url]) – [email](sglorente@proton.me) - [GitHub]([github-url])
+[LinkedIn](https://www.linkedin.com/in/sglorente/) – [email](sglorente@proton.me) - [GitHub](https://www.github.com/samuelglorente/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
