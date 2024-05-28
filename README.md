@@ -59,7 +59,7 @@ WBrake_F AND (Flap_D OR Flap_F OR GrndSpoiler_D OR GrndSpoiler_F OR ThrustRev_D 
 
 ## Release History
 
-* 0.1.0
+* 1.0.0
     * First release
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -91,7 +91,7 @@ Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 
 Samuel García Lorente
 
-[LinkedIn](linkedin-url) – [email](sglorente@proton.me) - [GitHub](linkedin-url)
+[LinkedIn](linkedin-url) – [email](sglorente@proton.me) - [GitHub](github-url)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
