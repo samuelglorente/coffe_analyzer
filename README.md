@@ -38,6 +38,11 @@ Considering that Table Q.4.6 is stored in a csv file, the following code is exec
 >>> from coffeanalyzer import CoffeInstance
 
 >>> path_csv = 'path/to/csv/file.csv'
+>>> # The CSV wil contain one column per each analyzed system indicating the failed states.
+>>> # The last column is reserved for the result of the combinated failed states:
+>>> # F;F;F;F;High-speed overrun
+>>> # F;O;O;O;Low-speed overrun
+>>> # ...
 >>> coffe = CoffeInstance(
 ...         ignored_states=['O'], 
 ...         ignored_results=['No overrun', 'Low-speed overrun'], 
